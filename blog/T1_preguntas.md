@@ -20,6 +20,7 @@
 **<div align="center">Ramos Verdin Paula Andrea 18210721</div>**
 **<div align="center">Howard Herrera Erwin 18210716</div>**
 **<div align="center">Duarte Parra Luis Adrian 17212337</div>**
+**<div align="center">Isaac Valdez Contreras 18210725</div>**
 
 **<div align="center">JUAN MANUEL HERNANDEZ MARTINEZ</div>**
 
